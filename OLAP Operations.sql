@@ -73,5 +73,5 @@ GROUP BY
 	REGION, DATE
 ORDER BY
 REGION, DATE;    
-    
+-- Cube and roll up functions not working in mysql
     
